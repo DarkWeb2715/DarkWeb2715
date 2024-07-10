@@ -3,7 +3,7 @@
 </h><br>
 </div>
 <div id='header' align='center'>
-  <img src='https://github.com/DarkWeb2715/DarkWeb2715/assets/175253376/4e0be1e7-8aec-4716-840a-2e9f717e17de
+  <img src='
 ' width="500">
 </div>
 </div>
@@ -12,9 +12,7 @@
   <a href="https://t.me/KING10042004">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Bu telegram badges">
   </a>
-  <a href="https://youtube.com/@Jasur_Hasanov_10">
-    <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt="Bu youtube badges">
-  </a>
+  
   <a href="https://www.instagram.com/darkweb_04_?igsh=MTR0Y3FlMHo2MGI2eA==">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="Bu instagram badges">
   </a>
@@ -26,9 +24,10 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/>
 </div>
-:hammer_and_wrench: Men bilgan dastular va dasturlash tillari:
+:hammer_and_wrench: O'zim qiziqadigan va bilgan dasturlar:
 <br><br>
 <div>
+  <i class='bx bxs-file-js'></i>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -48,7 +47,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salom+do'stlar!+👋👋👋;+Men+Jasur+Hasanov+bo'laman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salom+!+👋👋👋;+Bu+Bizning+Bosh+Sahifamiz!;" />
 </h1>
 
 
